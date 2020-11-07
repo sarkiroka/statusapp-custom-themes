@@ -1,0 +1,146 @@
+body *,
+body {
+	background-color: #202124 !important;
+	color: #e8eaed !important;
+	border-color: black !important;
+	box-shadow: none !important;
+}
+
+.main-menu {
+	box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14) !important;
+}
+
+.main-menu *,
+.main-menu {
+	background-color: #2B2C2F !important;
+}
+
+.menu-item:not(.menu-item--active):not(:hover) * {
+	color: #9d9d9d !important;
+}
+
+.header,
+.header__content,
+.header__content *,
+.status-footer .status-footer__day--active,
+.status-footer .status-footer__day--active * {
+	background-color: #070708 !important;
+}
+
+.status-card {
+	overflow: hidden;
+}
+
+.sidenav-secondary-menu,
+.menu__secondary {
+	display: none;
+}
+
+.comment-name {
+	color: #9aa0a6 !important;
+}
+
+.status-card,
+.send-message,
+.answer-row,
+.question-row,
+.send-result{
+	box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14) !important;
+	border: 0 !important;
+}
+
+.send-message,
+.answer-row,
+.question-row,
+.send-result,
+.send-message *,
+.answer-row *,
+.question-row *,
+.send-result *,
+.extra-message__card,
+.extra-message__card *{
+	background-color: #141516 !important;
+	border: 0 !important;
+}
+
+.notification__popup:before {
+	border-bottom-color: #5f6368;
+}
+
+.status-footer {
+	border-top: 1px solid #5f6368;
+}
+
+.status-footer__day--active,
+.status-footer__day--active *,
+.main-menu .orgnavigation__item--active,
+.main-menu .orgnavigation__item--active * {
+	background-color: #9aa0a6 !important;
+	color: #202124 !important;
+}
+
+.sa__button,
+a#atlwdg-trigger,
+.account-card,
+.send-message__textarea,
+.comment textarea{
+	border: 1px solid #5f6368 !important;
+}
+
+.status-card,
+.status-card * {
+	background-color: #36373A !important;
+	border-color: #5f6368 !important;
+}
+
+.status-list-pager {
+	border-color: #5f6368 !important;
+}
+
+.status-card__bottom,
+.status-card__bottom *,
+.hashtag-list__tag{
+	background-color: #141516 !important;
+
+}
+
+.announcement-box,
+.announcement-box * {
+	background-color: #fff59d !important;
+	border-color: #ffc107 !important;
+	color: #141516 !important;
+}
+
+.calendar .day.holiday {
+	background-color: #78c18e !important;
+}
+.calendar .day.free {
+	background: #45705b !important;
+}
+.calendar .day.ill {
+	background: #d11a10 !important;
+}
+.calendar .day.workday {
+	background: #b38600 !important;
+}
+
+.send-status .question-row .label__2 {
+	color: #00a9be !important;
+}
+
+.send-status .question-row .label__0 {
+	color: #e63c2e !important;
+}
+
+.status-list-team__team-name {
+	color: #3b96cf !important;
+}
+
+.status-list-team__progress {
+	background-color: #78c18e !important;
+}
+
+.comment,
+.comment * {
+	background-color: #2B2C2F !important;
+}
